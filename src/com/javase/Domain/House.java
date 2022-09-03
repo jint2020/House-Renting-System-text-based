@@ -1,4 +1,4 @@
-package come.javase.Domain;
+package com.javase.Domain;
 
 public class House {
     private int id;

@@ -1,6 +1,6 @@
-package come.javase.Service;
+package com.javase.Service;
 
-import come.javase.Domain.House;
+import com.javase.Domain.House;
 
 import java.util.ArrayList;
 import java.util.Scanner;

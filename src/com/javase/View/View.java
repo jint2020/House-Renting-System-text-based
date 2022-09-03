@@ -1,4 +1,4 @@
-package come.javase.View;
+package com.javase.View;
 
 import java.util.Scanner;
 

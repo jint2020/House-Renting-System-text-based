@@ -1,8 +1,7 @@
-package come.javase;
+package com.javase;
 
-import come.javase.Domain.House;
-import come.javase.Service.HouseService;
-import come.javase.View.View;
+import com.javase.Service.HouseService;
+import com.javase.View.View;
 
 import java.util.Scanner;
 
