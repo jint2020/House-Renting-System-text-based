@@ -56,7 +56,7 @@ public class HouseService {
     public void deleteHouse(int id){
         for (House ele:list) {
             if (id == ele.getId()) {
-                list.remove(id);
+                list.remove(ele);
                 System.out.println("删除成功。");
             }
         }
